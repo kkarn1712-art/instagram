@@ -1,0 +1,15 @@
+{
+  "name": "instagram-raider-railway",
+  "version": "1.0.0",
+  "description": "Instagram message raider – works on Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4",
+    "axios": "^1.6.2",
+    "uuid": "^9.0.1"
+  }
+}
