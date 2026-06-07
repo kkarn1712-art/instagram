@@ -1,7 +1,6 @@
 {
-  "name": "instagram-raider-railway",
+  "name": "instagram-raider-session",
   "version": "1.0.0",
-  "description": "Instagram message raider – works on Railway",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
